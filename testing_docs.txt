@@ -33,5 +33,12 @@ Slide - 6
 
 Process bubble
 
-Process bubble is a 
+Process bubble is a mark processing excel. It process comma separated value and mark the correct and wrong result to the excel.
+
+
+slide - 7
+
+
+
+
 
