@@ -7,6 +7,8 @@ here's is markdown file tutorial
 
 see the [link](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
 
+here's another [link](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md)
+
 
 An h1 header
 ============
