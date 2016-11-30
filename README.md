@@ -9,6 +9,8 @@ see the [link](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-ex
 
 here's another [link](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md)
 
+another [link](https://guides.github.com/features/mastering-markdown/)
+
 
 An h1 header
 ============
